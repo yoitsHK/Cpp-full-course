@@ -1,1 +1,0 @@
-All OOPs concepts of C++
